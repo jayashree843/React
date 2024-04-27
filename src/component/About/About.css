@@ -1,0 +1,53 @@
+/*about*/
+
+.about-section{
+  display: flex;
+  flex-direction: row;
+  padding-top: 50px;
+  margin-bottom: -110px;
+
+
+}
+.section-heading{
+  text-align: center;
+  margin-top: 20px;
+}
+.about-content{
+  width: 60%;
+  padding-right: 50px;
+}
+span{
+  color: rgb(255,153,0);
+}
+.img-fluid{
+  height: 70%;
+  width: 100%;
+  object-fit: contain;
+  display: flex;
+  align-items: center;
+  
+ 
+ 
+}
+
+
+
+/*how it works*/
+
+.inner-item img{
+  width: 100%;
+  height: 80vh;
+
+ 
+}
+.works{
+  background-color: rgb(254,199,47);
+}
+.outer-item{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.outer-item h2{
+  font-weight: bolder;
+  
+}

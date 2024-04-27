@@ -1,0 +1,25 @@
+
+/*counter*/
+.counter-section{
+  
+}
+.counter-section{
+  width: 25%;
+}
+.container{
+  display:flex;
+  flex-direction: row;  
+  justify-content: center;
+  gap: 10px;
+}
+  
+  /* Style the counter cards */
+  .cards {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(254,199,47);
+    color: black;
+    width: 100%;
+  }
+  

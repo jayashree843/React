@@ -1,0 +1,35 @@
+.services{
+    display:flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.services-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    width:400px;
+    height: 100%;
+    align-items: center;
+    padding: 20px;
+    border-radius: 12px;   
+
+}
+img{
+    height:50%;
+    width: 50%;
+  
+}
+.services-heading:hover{
+    background-color: rgb(254,199,47);
+    
+}
+.services h3{
+    color: white;
+}
+.services p{
+    color: white;
+}
+
+
