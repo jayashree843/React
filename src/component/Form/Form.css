@@ -1,0 +1,34 @@
+.contact{
+    background-image: url('E:\Turtu_React\react-project\src\Images\Image.png');
+}
+input[type=text],textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  } 
+  input[type=email]{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  } 
+  button{
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(254,199,47);
+    color: black;
+
+  }
+  .form p{
+    color: red;
+  }
+  .message-success{
+    color: green;
+    margin-top: 10px;
+    font-size: 20px;
+  }
